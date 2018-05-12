@@ -1,0 +1,40 @@
+_repo: The-Nightingale-the-Valkyrie-and-Raven-and-Other-Ballads_26834
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wise, Thomas James
+    alias: Wise, Thomas J. (Thomas James)
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '31678'
+    url: http://www.gutenberg.org/2009/agents/31678
+    wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
+description: ''
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- !lcsh 'Ballads'
+tableOfContents: The nightingale, or, The transformed damsel -- The valkyrie and raven
+  -- Erik Emun and Sir Plog -- The elves -- Feridun -- Epigrams.
+title: The Nightingale, the Valkyrie and Raven, and Other Ballads
+url: http://www.gutenberg.org/ebooks/26834
